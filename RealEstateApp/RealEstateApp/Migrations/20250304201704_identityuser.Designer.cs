@@ -3,6 +3,7 @@ using System;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using RealEstateApp.Data;
 
@@ -11,9 +12,11 @@ using RealEstateApp.Data;
 namespace RealEstateApp.Migrations
 {
     [DbContext(typeof(DataContext))]
-    partial class DataContextModelSnapshot : ModelSnapshot
+    [Migration("20250304201704_identityuser")]
+    partial class identityuser
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        /// <inheritdoc />
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -234,38 +237,6 @@ namespace RealEstateApp.Migrations
                     b.ToTable("AspNetUsers", (string)null);
                 });
 
-            modelBuilder.Entity("RealEstateApp.Entities.Kontrata", b =>
-                {
-                    b.Property<int>("KontrataId")
-                        .ValueGeneratedOnAdd()
-                        .HasColumnType("int");
-
-                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("KontrataId"));
-
-                    b.Property<int>("PronaID")
-                        .HasColumnType("int");
-
-                    b.Property<string>("Type")
-                        .IsRequired()
-                        .HasMaxLength(100)
-                        .HasColumnType("nvarchar(100)");
-
-                    b.Property<string>("UserID")
-                        .IsRequired()
-                        .HasColumnType("nvarchar(450)");
-
-                    b.Property<double>("koheZgjatja")
-                        .HasColumnType("float");
-
-                    b.HasKey("KontrataId");
-
-                    b.HasIndex("PronaID");
-
-                    b.HasIndex("UserID");
-
-                    b.ToTable("Kontrata");
-                });
-
             modelBuilder.Entity("RealEstateApp.Entities.Prona", b =>
                 {
                     b.Property<int>("PronaID")
@@ -310,46 +281,6 @@ namespace RealEstateApp.Migrations
                     b.ToTable("Pronas");
 
                     b.UseTptMappingStrategy();
-                });
-
-            modelBuilder.Entity("RealEstateApp.Entities.Sell", b =>
-                {
-                    b.Property<int>("SellID")
-                        .ValueGeneratedOnAdd()
-                        .HasColumnType("int");
-
-                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("SellID"));
-
-                    b.Property<double>("Commision")
-                        .HasColumnType("float");
-
-                    b.Property<string>("PaymentMethod")
-                        .IsRequired()
-                        .HasMaxLength(100)
-                        .HasColumnType("nvarchar(100)");
-
-                    b.Property<int>("PronaID")
-                        .HasColumnType("int");
-
-                    b.Property<DateTime>("SaleDate")
-                        .ValueGeneratedOnAdd()
-                        .HasColumnType("datetime2")
-                        .HasDefaultValueSql("GETDATE()");
-
-                    b.Property<double>("SalePrice")
-                        .HasColumnType("float");
-
-                    b.Property<string>("UserID")
-                        .IsRequired()
-                        .HasColumnType("nvarchar(450)");
-
-                    b.HasKey("SellID");
-
-                    b.HasIndex("PronaID");
-
-                    b.HasIndex("UserID");
-
-                    b.ToTable("Sells");
                 });
 
             modelBuilder.Entity("RealEstateApp.Entities.Apartment", b =>
@@ -461,44 +392,6 @@ namespace RealEstateApp.Migrations
                         .HasForeignKey("UserId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
-                });
-
-            modelBuilder.Entity("RealEstateApp.Entities.Kontrata", b =>
-                {
-                    b.HasOne("RealEstateApp.Entities.Prona", "Pronat")
-                        .WithMany()
-                        .HasForeignKey("PronaID")
-                        .OnDelete(DeleteBehavior.Restrict)
-                        .IsRequired();
-
-                    b.HasOne("RealEstateApp.Entities.ApplicationUser", "Users")
-                        .WithMany()
-                        .HasForeignKey("UserID")
-                        .OnDelete(DeleteBehavior.Restrict)
-                        .IsRequired();
-
-                    b.Navigation("Pronat");
-
-                    b.Navigation("Users");
-                });
-
-            modelBuilder.Entity("RealEstateApp.Entities.Sell", b =>
-                {
-                    b.HasOne("RealEstateApp.Entities.Prona", "Pronat")
-                        .WithMany()
-                        .HasForeignKey("PronaID")
-                        .OnDelete(DeleteBehavior.Restrict)
-                        .IsRequired();
-
-                    b.HasOne("RealEstateApp.Entities.ApplicationUser", "Users")
-                        .WithMany()
-                        .HasForeignKey("UserID")
-                        .OnDelete(DeleteBehavior.Restrict)
-                        .IsRequired();
-
-                    b.Navigation("Pronat");
-
-                    b.Navigation("Users");
                 });
 
             modelBuilder.Entity("RealEstateApp.Entities.Apartment", b =>
