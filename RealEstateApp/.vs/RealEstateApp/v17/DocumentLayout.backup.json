@@ -1,22 +1,78 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Ali\\source\\repos\\RealEstateApp\\",
+  "WorkspaceRootPath": "C:\\Users\\Ali\\OneDrive\\Desktop\\RealEstateApp1\\RealEstateApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FFE61F58-1B46-4267-B915-4A6B58A0F20D}|RealEstateApp\\RealEstateApp.csproj|c:\\users\\ali\\source\\repos\\realestateapp\\realestateapp\\features\\apartmentfeature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FFE61F58-1B46-4267-B915-4A6B58A0F20D}|RealEstateApp\\RealEstateApp.csproj|solutionrelative:realestateapp\\features\\apartmentfeature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ali\\OneDrive\\Desktop\\RealEstateApp1\\RealEstateApp\\RealEstateApp\\Migrations\\20250304204314_sell-kontrata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RealEstateApp\\Migrations\\20250304204314_sell-kontrata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FFE61F58-1B46-4267-B915-4A6B58A0F20D}|RealEstateApp\\RealEstateApp.csproj|c:\\users\\ali\\source\\repos\\realestateapp\\realestateapp\\controllers\\apartmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FFE61F58-1B46-4267-B915-4A6B58A0F20D}|RealEstateApp\\RealEstateApp.csproj|solutionrelative:realestateapp\\controllers\\apartmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FFE61F58-1B46-4267-B915-4A6B58A0F20D}|RealEstateApp\\RealEstateApp.csproj|c:\\users\\ali\\onedrive\\desktop\\realestateapp1\\realestateapp\\realestateapp\\controllers\\sellscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFE61F58-1B46-4267-B915-4A6B58A0F20D}|RealEstateApp\\RealEstateApp.csproj|solutionrelative:realestateapp\\controllers\\sellscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FFE61F58-1B46-4267-B915-4A6B58A0F20D}|RealEstateApp\\RealEstateApp.csproj|c:\\users\\ali\\source\\repos\\realestateapp\\realestateapp\\dto\\apartmentcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FFE61F58-1B46-4267-B915-4A6B58A0F20D}|RealEstateApp\\RealEstateApp.csproj|solutionrelative:realestateapp\\dto\\apartmentcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FFE61F58-1B46-4267-B915-4A6B58A0F20D}|RealEstateApp\\RealEstateApp.csproj|c:\\users\\ali\\onedrive\\desktop\\realestateapp1\\realestateapp\\realestateapp\\features\\kontratafeature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFE61F58-1B46-4267-B915-4A6B58A0F20D}|RealEstateApp\\RealEstateApp.csproj|solutionrelative:realestateapp\\features\\kontratafeature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FFE61F58-1B46-4267-B915-4A6B58A0F20D}|RealEstateApp\\RealEstateApp.csproj|c:\\users\\ali\\source\\repos\\realestateapp\\realestateapp\\features\\tokafeature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FFE61F58-1B46-4267-B915-4A6B58A0F20D}|RealEstateApp\\RealEstateApp.csproj|c:\\users\\ali\\onedrive\\desktop\\realestateapp1\\realestateapp\\realestateapp\\configurations\\sellconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFE61F58-1B46-4267-B915-4A6B58A0F20D}|RealEstateApp\\RealEstateApp.csproj|solutionrelative:realestateapp\\configurations\\sellconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFE61F58-1B46-4267-B915-4A6B58A0F20D}|RealEstateApp\\RealEstateApp.csproj|c:\\users\\ali\\onedrive\\desktop\\realestateapp1\\realestateapp\\realestateapp\\features\\sellfeature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFE61F58-1B46-4267-B915-4A6B58A0F20D}|RealEstateApp\\RealEstateApp.csproj|solutionrelative:realestateapp\\features\\sellfeature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFE61F58-1B46-4267-B915-4A6B58A0F20D}|RealEstateApp\\RealEstateApp.csproj|c:\\users\\ali\\onedrive\\desktop\\realestateapp1\\realestateapp\\realestateapp\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFE61F58-1B46-4267-B915-4A6B58A0F20D}|RealEstateApp\\RealEstateApp.csproj|solutionrelative:realestateapp\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFE61F58-1B46-4267-B915-4A6B58A0F20D}|RealEstateApp\\RealEstateApp.csproj|c:\\users\\ali\\onedrive\\desktop\\realestateapp1\\realestateapp\\realestateapp\\dto\\kontratadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFE61F58-1B46-4267-B915-4A6B58A0F20D}|RealEstateApp\\RealEstateApp.csproj|solutionrelative:realestateapp\\dto\\kontratadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFE61F58-1B46-4267-B915-4A6B58A0F20D}|RealEstateApp\\RealEstateApp.csproj|c:\\users\\ali\\onedrive\\desktop\\realestateapp1\\realestateapp\\realestateapp\\configurations\\kontrataconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFE61F58-1B46-4267-B915-4A6B58A0F20D}|RealEstateApp\\RealEstateApp.csproj|solutionrelative:realestateapp\\configurations\\kontrataconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFE61F58-1B46-4267-B915-4A6B58A0F20D}|RealEstateApp\\RealEstateApp.csproj|c:\\users\\ali\\onedrive\\desktop\\realestateapp1\\realestateapp\\realestateapp\\entities\\kontrata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFE61F58-1B46-4267-B915-4A6B58A0F20D}|RealEstateApp\\RealEstateApp.csproj|solutionrelative:realestateapp\\entities\\kontrata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFE61F58-1B46-4267-B915-4A6B58A0F20D}|RealEstateApp\\RealEstateApp.csproj|c:\\users\\ali\\onedrive\\desktop\\realestateapp1\\realestateapp\\realestateapp\\entities\\sell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFE61F58-1B46-4267-B915-4A6B58A0F20D}|RealEstateApp\\RealEstateApp.csproj|solutionrelative:realestateapp\\entities\\sell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFE61F58-1B46-4267-B915-4A6B58A0F20D}|RealEstateApp\\RealEstateApp.csproj|c:\\users\\ali\\onedrive\\desktop\\realestateapp1\\realestateapp\\realestateapp\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFE61F58-1B46-4267-B915-4A6B58A0F20D}|RealEstateApp\\RealEstateApp.csproj|solutionrelative:realestateapp\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFE61F58-1B46-4267-B915-4A6B58A0F20D}|RealEstateApp\\RealEstateApp.csproj|c:\\users\\ali\\onedrive\\desktop\\realestateapp1\\realestateapp\\realestateapp\\dto\\loginresultdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFE61F58-1B46-4267-B915-4A6B58A0F20D}|RealEstateApp\\RealEstateApp.csproj|solutionrelative:realestateapp\\dto\\loginresultdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFE61F58-1B46-4267-B915-4A6B58A0F20D}|RealEstateApp\\RealEstateApp.csproj|c:\\users\\ali\\onedrive\\desktop\\realestateapp1\\realestateapp\\realestateapp\\features\\loginfeature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFE61F58-1B46-4267-B915-4A6B58A0F20D}|RealEstateApp\\RealEstateApp.csproj|solutionrelative:realestateapp\\features\\loginfeature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFE61F58-1B46-4267-B915-4A6B58A0F20D}|RealEstateApp\\RealEstateApp.csproj|c:\\users\\ali\\onedrive\\desktop\\realestateapp1\\realestateapp\\realestateapp\\features\\tokenhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFE61F58-1B46-4267-B915-4A6B58A0F20D}|RealEstateApp\\RealEstateApp.csproj|solutionrelative:realestateapp\\features\\tokenhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFE61F58-1B46-4267-B915-4A6B58A0F20D}|RealEstateApp\\RealEstateApp.csproj|c:\\users\\ali\\onedrive\\desktop\\realestateapp1\\realestateapp\\realestateapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFE61F58-1B46-4267-B915-4A6B58A0F20D}|RealEstateApp\\RealEstateApp.csproj|solutionrelative:realestateapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFE61F58-1B46-4267-B915-4A6B58A0F20D}|RealEstateApp\\RealEstateApp.csproj|c:\\users\\ali\\onedrive\\desktop\\realestateapp1\\realestateapp\\realestateapp\\dto\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFE61F58-1B46-4267-B915-4A6B58A0F20D}|RealEstateApp\\RealEstateApp.csproj|solutionrelative:realestateapp\\dto\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFE61F58-1B46-4267-B915-4A6B58A0F20D}|RealEstateApp\\RealEstateApp.csproj|c:\\users\\ali\\onedrive\\desktop\\realestateapp1\\realestateapp\\realestateapp\\features\\tokafeature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FFE61F58-1B46-4267-B915-4A6B58A0F20D}|RealEstateApp\\RealEstateApp.csproj|solutionrelative:realestateapp\\features\\tokafeature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFE61F58-1B46-4267-B915-4A6B58A0F20D}|RealEstateApp\\RealEstateApp.csproj|c:\\users\\ali\\onedrive\\desktop\\realestateapp1\\realestateapp\\realestateapp\\dto\\refreshtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFE61F58-1B46-4267-B915-4A6B58A0F20D}|RealEstateApp\\RealEstateApp.csproj|solutionrelative:realestateapp\\dto\\refreshtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,20 +82,243 @@
       "DocumentGroups": [
         {
           "DockedWidth": 54,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 16,
               "Title": "TokaFeature.cs",
-              "DocumentMoniker": "C:\\Users\\Ali\\source\\repos\\RealEstateApp\\RealEstateApp\\Features\\TokaFeature.cs",
+              "DocumentMoniker": "C:\\Users\\Ali\\OneDrive\\Desktop\\RealEstateApp1\\RealEstateApp\\RealEstateApp\\Features\\TokaFeature.cs",
               "RelativeDocumentMoniker": "RealEstateApp\\Features\\TokaFeature.cs",
-              "ToolTip": "C:\\Users\\Ali\\source\\repos\\RealEstateApp\\RealEstateApp\\Features\\TokaFeature.cs",
+              "ToolTip": "C:\\Users\\Ali\\OneDrive\\Desktop\\RealEstateApp1\\RealEstateApp\\RealEstateApp\\Features\\TokaFeature.cs",
               "RelativeToolTip": "RealEstateApp\\Features\\TokaFeature.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-06T22:15:53.66Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ali\\OneDrive\\Desktop\\RealEstateApp1\\RealEstateApp\\RealEstateApp\\Program.cs",
+              "RelativeDocumentMoniker": "RealEstateApp\\Program.cs",
+              "ToolTip": "C:\\Users\\Ali\\OneDrive\\Desktop\\RealEstateApp1\\RealEstateApp\\RealEstateApp\\Program.cs",
+              "RelativeToolTip": "RealEstateApp\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T19:39:24.303Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20250304204314_sell-kontrata.cs",
+              "DocumentMoniker": "C:\\Users\\Ali\\OneDrive\\Desktop\\RealEstateApp1\\RealEstateApp\\RealEstateApp\\Migrations\\20250304204314_sell-kontrata.cs",
+              "RelativeDocumentMoniker": "RealEstateApp\\Migrations\\20250304204314_sell-kontrata.cs",
+              "ToolTip": "C:\\Users\\Ali\\OneDrive\\Desktop\\RealEstateApp1\\RealEstateApp\\RealEstateApp\\Migrations\\20250304204314_sell-kontrata.cs",
+              "RelativeToolTip": "RealEstateApp\\Migrations\\20250304204314_sell-kontrata.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T20:43:14.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "KontrataFeature.cs",
+              "DocumentMoniker": "C:\\Users\\Ali\\OneDrive\\Desktop\\RealEstateApp1\\RealEstateApp\\RealEstateApp\\Features\\KontrataFeature.cs",
+              "RelativeDocumentMoniker": "RealEstateApp\\Features\\KontrataFeature.cs",
+              "ToolTip": "C:\\Users\\Ali\\OneDrive\\Desktop\\RealEstateApp1\\RealEstateApp\\RealEstateApp\\Features\\KontrataFeature.cs",
+              "RelativeToolTip": "RealEstateApp\\Features\\KontrataFeature.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAiwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T20:39:35.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "KontrataDto.cs",
+              "DocumentMoniker": "C:\\Users\\Ali\\OneDrive\\Desktop\\RealEstateApp1\\RealEstateApp\\RealEstateApp\\DTO\\KontrataDto.cs",
+              "RelativeDocumentMoniker": "RealEstateApp\\DTO\\KontrataDto.cs",
+              "ToolTip": "C:\\Users\\Ali\\OneDrive\\Desktop\\RealEstateApp1\\RealEstateApp\\RealEstateApp\\DTO\\KontrataDto.cs",
+              "RelativeToolTip": "RealEstateApp\\DTO\\KontrataDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T20:38:49.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "kontrataConfigurations.cs",
+              "DocumentMoniker": "C:\\Users\\Ali\\OneDrive\\Desktop\\RealEstateApp1\\RealEstateApp\\RealEstateApp\\Configurations\\kontrataConfigurations.cs",
+              "RelativeDocumentMoniker": "RealEstateApp\\Configurations\\kontrataConfigurations.cs",
+              "ToolTip": "C:\\Users\\Ali\\OneDrive\\Desktop\\RealEstateApp1\\RealEstateApp\\RealEstateApp\\Configurations\\kontrataConfigurations.cs",
+              "RelativeToolTip": "RealEstateApp\\Configurations\\kontrataConfigurations.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T20:38:12.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Kontrata.cs",
+              "DocumentMoniker": "C:\\Users\\Ali\\OneDrive\\Desktop\\RealEstateApp1\\RealEstateApp\\RealEstateApp\\Entities\\Kontrata.cs",
+              "RelativeDocumentMoniker": "RealEstateApp\\Entities\\Kontrata.cs",
+              "ToolTip": "C:\\Users\\Ali\\OneDrive\\Desktop\\RealEstateApp1\\RealEstateApp\\RealEstateApp\\Entities\\Kontrata.cs",
+              "RelativeToolTip": "RealEstateApp\\Entities\\Kontrata.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T20:37:37.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SellFeature.cs",
+              "DocumentMoniker": "C:\\Users\\Ali\\OneDrive\\Desktop\\RealEstateApp1\\RealEstateApp\\RealEstateApp\\Features\\SellFeature.cs",
+              "RelativeDocumentMoniker": "RealEstateApp\\Features\\SellFeature.cs",
+              "ToolTip": "C:\\Users\\Ali\\OneDrive\\Desktop\\RealEstateApp1\\RealEstateApp\\RealEstateApp\\Features\\SellFeature.cs",
+              "RelativeToolTip": "RealEstateApp\\Features\\SellFeature.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T20:34:06.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "C:\\Users\\Ali\\OneDrive\\Desktop\\RealEstateApp1\\RealEstateApp\\RealEstateApp\\Data\\DataContext.cs",
+              "RelativeDocumentMoniker": "RealEstateApp\\Data\\DataContext.cs",
+              "ToolTip": "C:\\Users\\Ali\\OneDrive\\Desktop\\RealEstateApp1\\RealEstateApp\\RealEstateApp\\Data\\DataContext.cs",
+              "RelativeToolTip": "RealEstateApp\\Data\\DataContext.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAswCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T20:32:08.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SellConfigurations.cs",
+              "DocumentMoniker": "C:\\Users\\Ali\\OneDrive\\Desktop\\RealEstateApp1\\RealEstateApp\\RealEstateApp\\Configurations\\SellConfigurations.cs",
+              "RelativeDocumentMoniker": "RealEstateApp\\Configurations\\SellConfigurations.cs",
+              "ToolTip": "C:\\Users\\Ali\\OneDrive\\Desktop\\RealEstateApp1\\RealEstateApp\\RealEstateApp\\Configurations\\SellConfigurations.cs",
+              "RelativeToolTip": "RealEstateApp\\Configurations\\SellConfigurations.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T20:31:08.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Sell.cs",
+              "DocumentMoniker": "C:\\Users\\Ali\\OneDrive\\Desktop\\RealEstateApp1\\RealEstateApp\\RealEstateApp\\Entities\\Sell.cs",
+              "RelativeDocumentMoniker": "RealEstateApp\\Entities\\Sell.cs",
+              "ToolTip": "C:\\Users\\Ali\\OneDrive\\Desktop\\RealEstateApp1\\RealEstateApp\\RealEstateApp\\Entities\\Sell.cs",
+              "RelativeToolTip": "RealEstateApp\\Entities\\Sell.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA5wA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T20:30:23.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SellsController.cs",
+              "DocumentMoniker": "C:\\Users\\Ali\\OneDrive\\Desktop\\RealEstateApp1\\RealEstateApp\\RealEstateApp\\Controllers\\SellsController.cs",
+              "RelativeDocumentMoniker": "RealEstateApp\\Controllers\\SellsController.cs",
+              "ToolTip": "C:\\Users\\Ali\\OneDrive\\Desktop\\RealEstateApp1\\RealEstateApp\\RealEstateApp\\Controllers\\SellsController.cs",
+              "RelativeToolTip": "RealEstateApp\\Controllers\\SellsController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAqwBAAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T20:29:35.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TokenHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Ali\\OneDrive\\Desktop\\RealEstateApp1\\RealEstateApp\\RealEstateApp\\Features\\TokenHelper.cs",
+              "RelativeDocumentMoniker": "RealEstateApp\\Features\\TokenHelper.cs",
+              "ToolTip": "C:\\Users\\Ali\\OneDrive\\Desktop\\RealEstateApp1\\RealEstateApp\\RealEstateApp\\Features\\TokenHelper.cs",
+              "RelativeToolTip": "RealEstateApp\\Features\\TokenHelper.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwE0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T20:25:15.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Register.cs",
+              "DocumentMoniker": "C:\\Users\\Ali\\OneDrive\\Desktop\\RealEstateApp1\\RealEstateApp\\RealEstateApp\\DTO\\Register.cs",
+              "RelativeDocumentMoniker": "RealEstateApp\\DTO\\Register.cs",
+              "ToolTip": "C:\\Users\\Ali\\OneDrive\\Desktop\\RealEstateApp1\\RealEstateApp\\RealEstateApp\\DTO\\Register.cs",
+              "RelativeToolTip": "RealEstateApp\\DTO\\Register.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T20:24:18.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "RefreshToken.cs",
+              "DocumentMoniker": "C:\\Users\\Ali\\OneDrive\\Desktop\\RealEstateApp1\\RealEstateApp\\RealEstateApp\\DTO\\RefreshToken.cs",
+              "RelativeDocumentMoniker": "RealEstateApp\\DTO\\RefreshToken.cs",
+              "ToolTip": "C:\\Users\\Ali\\OneDrive\\Desktop\\RealEstateApp1\\RealEstateApp\\RealEstateApp\\DTO\\RefreshToken.cs",
+              "RelativeToolTip": "RealEstateApp\\DTO\\RefreshToken.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T20:23:53.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LoginResultDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Ali\\OneDrive\\Desktop\\RealEstateApp1\\RealEstateApp\\RealEstateApp\\DTO\\LoginResultDTO.cs",
+              "RelativeDocumentMoniker": "RealEstateApp\\DTO\\LoginResultDTO.cs",
+              "ToolTip": "C:\\Users\\Ali\\OneDrive\\Desktop\\RealEstateApp1\\RealEstateApp\\RealEstateApp\\DTO\\LoginResultDTO.cs",
+              "RelativeToolTip": "RealEstateApp\\DTO\\LoginResultDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T20:23:00.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "LoginFeature.cs",
+              "DocumentMoniker": "C:\\Users\\Ali\\OneDrive\\Desktop\\RealEstateApp1\\RealEstateApp\\RealEstateApp\\Features\\LoginFeature.cs",
+              "RelativeDocumentMoniker": "RealEstateApp\\Features\\LoginFeature.cs",
+              "ToolTip": "C:\\Users\\Ali\\OneDrive\\Desktop\\RealEstateApp1\\RealEstateApp\\RealEstateApp\\Features\\LoginFeature.cs",
+              "RelativeToolTip": "RealEstateApp\\Features\\LoginFeature.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T20:21:25.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\Ali\\OneDrive\\Desktop\\RealEstateApp1\\RealEstateApp\\RealEstateApp\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "RealEstateApp\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\Ali\\OneDrive\\Desktop\\RealEstateApp1\\RealEstateApp\\RealEstateApp\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "RealEstateApp\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAJwAAAAAAAAAAAAswG0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T20:19:23.707Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
@@ -48,43 +327,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ApartmentFeature.cs",
-              "DocumentMoniker": "C:\\Users\\Ali\\source\\repos\\RealEstateApp\\RealEstateApp\\Features\\ApartmentFeature.cs",
-              "RelativeDocumentMoniker": "RealEstateApp\\Features\\ApartmentFeature.cs",
-              "ToolTip": "C:\\Users\\Ali\\source\\repos\\RealEstateApp\\RealEstateApp\\Features\\ApartmentFeature.cs",
-              "RelativeToolTip": "RealEstateApp\\Features\\ApartmentFeature.cs",
-              "ViewState": "AgIAACEAAAAAAAAAAAAYwDcAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-06T22:20:49.815Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ApartmentCreateDto.cs",
-              "DocumentMoniker": "C:\\Users\\Ali\\source\\repos\\RealEstateApp\\RealEstateApp\\DTO\\ApartmentCreateDto.cs",
-              "RelativeDocumentMoniker": "RealEstateApp\\DTO\\ApartmentCreateDto.cs",
-              "ToolTip": "C:\\Users\\Ali\\source\\repos\\RealEstateApp\\RealEstateApp\\DTO\\ApartmentCreateDto.cs",
-              "RelativeToolTip": "RealEstateApp\\DTO\\ApartmentCreateDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-06T22:19:42.827Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ApartmentsController.cs",
-              "DocumentMoniker": "C:\\Users\\Ali\\source\\repos\\RealEstateApp\\RealEstateApp\\Controllers\\ApartmentsController.cs",
-              "RelativeDocumentMoniker": "RealEstateApp\\Controllers\\ApartmentsController.cs",
-              "ToolTip": "C:\\Users\\Ali\\source\\repos\\RealEstateApp\\RealEstateApp\\Controllers\\ApartmentsController.cs",
-              "RelativeToolTip": "RealEstateApp\\Controllers\\ApartmentsController.cs",
-              "ViewState": "AgIAACcAAAAAAAAAAADwvz4AAAA7AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-06T22:18:54.539Z"
             }
           ]
         },

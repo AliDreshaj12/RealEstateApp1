@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ali\\source\\repos\\RealEstateApp\\RealEstateApp\\RealEstateApp.csproj": {}
+    "C:\\Users\\Ali\\OneDrive\\Desktop\\RealEstateApp1\\RealEstateApp\\RealEstateApp\\RealEstateApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ali\\source\\repos\\RealEstateApp\\RealEstateApp\\RealEstateApp.csproj": {
+    "C:\\Users\\Ali\\OneDrive\\Desktop\\RealEstateApp1\\RealEstateApp\\RealEstateApp\\RealEstateApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ali\\source\\repos\\RealEstateApp\\RealEstateApp\\RealEstateApp.csproj",
+        "projectUniqueName": "C:\\Users\\Ali\\OneDrive\\Desktop\\RealEstateApp1\\RealEstateApp\\RealEstateApp\\RealEstateApp.csproj",
         "projectName": "RealEstateApp",
-        "projectPath": "C:\\Users\\Ali\\source\\repos\\RealEstateApp\\RealEstateApp\\RealEstateApp.csproj",
+        "projectPath": "C:\\Users\\Ali\\OneDrive\\Desktop\\RealEstateApp1\\RealEstateApp\\RealEstateApp\\RealEstateApp.csproj",
         "packagesPath": "C:\\Users\\Ali\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ali\\source\\repos\\RealEstateApp\\RealEstateApp\\obj\\",
+        "outputPath": "C:\\Users\\Ali\\OneDrive\\Desktop\\RealEstateApp1\\RealEstateApp\\RealEstateApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Ali\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -46,6 +46,18 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[8.0.10, )"
+            },
+            "Microsoft.AspNetCore.Identity": {
+              "target": "Package",
+              "version": "[2.3.0, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[8.0.10, )"
@@ -60,9 +72,25 @@
               "target": "Package",
               "version": "[8.0.10, )"
             },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[9.0.2, )"
+            },
+            "Microsoft.Extensions.Identity.Core": {
+              "target": "Package",
+              "version": "[9.0.2, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.6.2, )"
+            },
+            "Swashbuckle.AspNetCore.Filters": {
+              "target": "Package",
+              "version": "[8.0.2, )"
             }
           },
           "imports": [

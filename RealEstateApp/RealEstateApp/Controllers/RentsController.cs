@@ -2,6 +2,7 @@
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
+using RealEstateApp.Data;
 using RealEstateApp.Entities;
 using RealEstateApp.Features;
 using System;
@@ -12,9 +13,9 @@ namespace RealEstateApp.Controllers
     [ApiController]
     public class RentsController : ControllerBase
     {
-        private readonly AppDbContext _context;
+        private readonly DataContext _context;
 
-        public RentsController(AppDbContext context)
+        public RentsController(DataContext context)
         {
             _context = context;
         }
