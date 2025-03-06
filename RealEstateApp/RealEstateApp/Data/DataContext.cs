@@ -17,6 +17,11 @@ namespace RealEstateApp.Data
         public DbSet<Sell> Sells { get; set; }
         public DbSet<Kontrata> Kontrata { get; set; }
         public DbSet<Rent> Rents { get; set; }
+        public DbSet<Ligjerata> Ligjerata { get; set; }
+        public DbSet<Ligjeruesi> Ligjeruesi { get; set; }
+
+
+
 
 
         protected override void OnModelCreating(ModelBuilder builder)
@@ -37,7 +42,7 @@ namespace RealEstateApp.Data
 
             builder.ApplyConfiguration(new RentConfiguration());
 
-
+            builder.ApplyConfiguration(new LigjerataConfiguration());
 
 
         }
